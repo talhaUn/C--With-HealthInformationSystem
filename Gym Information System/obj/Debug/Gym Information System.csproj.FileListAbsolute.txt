@@ -1,0 +1,21 @@
+C:\Users\Talha\source\repos\Gym Information System\bin\Debug\Gym Information System.exe.config
+C:\Users\Talha\source\repos\Gym Information System\bin\Debug\Gym Information System.exe
+C:\Users\Talha\source\repos\Gym Information System\bin\Debug\Gym Information System.pdb
+C:\Users\Talha\source\repos\Gym Information System\obj\Debug\Gym Information System.csproj.AssemblyReference.cache
+C:\Users\Talha\source\repos\Gym Information System\obj\Debug\Gym Information System.csproj.SuggestedBindingRedirects.cache
+C:\Users\Talha\source\repos\Gym Information System\obj\Debug\Gym_Information_System.Form1.resources
+C:\Users\Talha\source\repos\Gym Information System\obj\Debug\Gym_Information_System.Form2.resources
+C:\Users\Talha\source\repos\Gym Information System\obj\Debug\Gym_Information_System.Properties.Resources.resources
+C:\Users\Talha\source\repos\Gym Information System\obj\Debug\Gym Information System.csproj.GenerateResource.cache
+C:\Users\Talha\source\repos\Gym Information System\obj\Debug\Gym Information System.csproj.CoreCompileInputs.cache
+C:\Users\Talha\source\repos\Gym Information System\obj\Debug\Gym Information System.exe
+C:\Users\Talha\source\repos\Gym Information System\obj\Debug\Gym Information System.pdb
+C:\Users\Talha\source\repos\Gym Information System\obj\Debug\Gym_Information_System.Form3.resources
+C:\Users\Talha\source\repos\Gym Information System\obj\Debug\Gym_Information_System.Form4.resources
+C:\Users\Talha\source\repos\Gym Information System\obj\Debug\Gym_Information_System.Form5.resources
+C:\Users\Talha\source\repos\Gym Information System\obj\Debug\Gym_Information_System.Form6.resources
+C:\Users\Talha\source\repos\Gym Information System\obj\Debug\Gym_Information_System.Form7.resources
+C:\Users\Talha\source\repos\Gym Information System\obj\Debug\Gym_Information_System.Form8.resources
+C:\Users\Talha\source\repos\Gym Information System\obj\Debug\Gym_Information_System.Form9.resources
+C:\Users\Talha\source\repos\Gym Information System\obj\Debug\Gym_Information_System.Form10.resources
+C:\Users\Talha\source\repos\Gym Information System\obj\Debug\Gym Information System.csproj.CopyComplete
